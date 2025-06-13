@@ -3,7 +3,7 @@
 A modern, responsive task management application built with the Spring Boot and React stack. This project demonstrates a complete full-stack development cycle, from a RESTful API backend to a dynamic, interactive frontend.
 
 ![Screenshot of the Task Management App](./screenshot.png)
-*(Pro tip: Take a screenshot of your running application, name it `screenshot.png`, and place it in the root project folder.)*
+
 
 ---
 
