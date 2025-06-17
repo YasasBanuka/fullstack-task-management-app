@@ -83,7 +83,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## 🧠 What I Learned
 
-This project was a deep-dive into full-stack development and solidified my understanding of:
+This project was a deep dive into full-stack development and solidified my understanding of:
 
 -   Building and structuring a RESTful API from scratch with Spring Boot.
 -   Managing component state and side effects in React using hooks (`useState`, `useEffect`).
